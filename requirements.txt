@@ -1,0 +1,9 @@
+streamlit
+joblib
+langchain
+langchain-community
+faiss-cpu
+unstructured==0.14.5
+unstructured[pdf]
+transformers
+sentence-transformers
