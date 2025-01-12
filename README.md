@@ -1,4 +1,4 @@
-# DataFrame_QnA_Agent using Ollama
+# QnA_Agent using Ollama
 
 ## Overview
 
