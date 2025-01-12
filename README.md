@@ -27,3 +27,5 @@ To install the required dependencies, run the following command:
 ```
 pip install -r requirements.txt
 ```
+## Warning:-
+Some pdf file will not work properly.
